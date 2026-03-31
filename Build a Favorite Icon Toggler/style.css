@@ -1,0 +1,15 @@
+ .favorite-icon.filled {
+            color: red;
+            font-weight: bold;
+        }
+        
+        /* Basic styling for functionality demonstration */
+        .favorite-icon {
+            cursor: pointer;
+            border: none;
+            background: none;
+            font-size: 1.2em;
+        }
+        .item-list {
+            list-style-type: none;
+        }
